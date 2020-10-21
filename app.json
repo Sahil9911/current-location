@@ -1,0 +1,12 @@
+{
+  "name": "LocationApp",
+  "displayName": "LocationApp",
+  "expo": {
+    "name": "LocationApp",
+    "slug": "LocationApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
